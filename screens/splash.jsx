@@ -4,7 +4,7 @@ import React from "react";
 const splash = () => {
   return (
     <View>
-      <Text>splash</Text>
+      <Text>Unsplash Screen</Text>
     </View>
   );
 };
