@@ -23,9 +23,8 @@ import ShopLogin from "./screens/ShopLogin";
 import ShopPanel from "./screens/ShopPanel";
 import ShopCreateProduct from "./screens/ShopCreateProduct";
 import UserOrder from "./screens/UserOrder";
-// import UserOrder from "./screens/UserOrder";
 
-
+s
 const Main = () => {
   const Stack = createNativeStackNavigator();
   const [SearchQuery, setSearchQuary] = useState("");
